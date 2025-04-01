@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+  xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>https://kaizenmentality.github.io/kaizen-mentality/posts/sample-post/</loc>
+  </url><url>
+    <loc>https://kaizenmentality.github.io/kaizen-mentality/categories/</loc>
+  </url><url>
+    <loc>https://kaizenmentality.github.io/kaizen-mentality/</loc>
+  </url><url>
+    <loc>https://kaizenmentality.github.io/kaizen-mentality/posts/</loc>
+  </url><url>
+    <loc>https://kaizenmentality.github.io/kaizen-mentality/tags/</loc>
+  </url>
+</urlset>
